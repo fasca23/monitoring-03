@@ -28,8 +28,13 @@
 #
 #
 # Ответ
+
 Prometheus и Grafana - поднял локально.
+
 Node-exporter - И локально и на Raspberry Pi
+
+#
+#
 Рис.1
 ![Рис.1*](img/01.png)
 #
