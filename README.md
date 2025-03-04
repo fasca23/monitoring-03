@@ -31,7 +31,7 @@
 
 Prometheus и Grafana - поднял локально.
 
-Node-exporter - И локально и на Raspberry Pi
+Node-exporter - и локально и на Raspberry Pi
 
 #
 #
